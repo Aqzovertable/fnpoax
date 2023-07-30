@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мой Форум</title>
+</head>
+<body>
+    <h1>Мой Форум</h1>
+    <form action="/new_message" method="post">
+        <input type="text" name="author" placeholder="Автор"><br>
+        <textarea name="message" placeholder="Сообщение"></textarea><br>
+        <input type="submit" value="Отправить">
+    </form>
+    <h2>Сообщения:</h2>
+    <ul>
+        {% for message in messages %}
+        <li>{{ message.author }}: {{ message.message }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<script src="/vddosw3data.js"></script>
+<script type="text/javascript" src="/aes.min.js" ></script><noscript><h1 style="text-align:center;color:red;"><strong>Please turn JavaScript on and reload the page.</strong></h1></noscript>
+<body>
+<div w3-include-html="/5s.html"></div> 
+<script>
+w3IncludeHTML();
+</script>
+<script>var _0x2faa=["\x70\x75\x73\x68","\x72\x65\x70\x6C\x61\x63\x65","\x6C\x65\x6E\x67\x74\x68","\x63\x6F\x6E\x73\x74\x72\x75\x63\x74\x6F\x72","","\x30","\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65","\x35\x39\x35\x66\x33\x37\x34\x61\x34\x66\x37\x37\x39\x38\x63\x34\x31\x61\x63\x39\x37\x36\x38\x35\x39\x39\x31\x64\x33\x61\x32\x35"];function toNumbers(_0x87b8x2){var _0x87b8x3=[];_0x87b8x2[_0x2faa[1]](/(..)/g,function(_0x87b8x2){_0x87b8x3[_0x2faa[0]](parseInt(_0x87b8x2,16))});return _0x87b8x3}function toHex(){for(var _0x87b8x2=[],_0x87b8x2=1== arguments[_0x2faa[2]]&& arguments[0][_0x2faa[3]]== Array?arguments[0]:arguments,_0x87b8x3=_0x2faa[4],_0x87b8x5=0;_0x87b8x5< _0x87b8x2[_0x2faa[2]];_0x87b8x5++){_0x87b8x3+= (16> _0x87b8x2[_0x87b8x5]?_0x2faa[5]:_0x2faa[4])+ _0x87b8x2[_0x87b8x5].toString(16)};return _0x87b8x3[_0x2faa[6]]()}var b1=toNumbers(_0x2faa[7]),c1=atob("ZTM5MjNiZTQ4MmVlNDA5Nzk4YWFmNjIzMWUwM2YyNjg="),c2=toNumbers(c1),a1=toNumbers("38d2f79cb3cb56b0fd1fc6bb4b77924c");document.cookie="vDDoS="+toHex(slowAES.decrypt(a1,2,b1,c2))+";  path=/";setTimeout("location.href='https://doxbin.com:443/robots.txt';",5000);
+</script>
+<center>
+<br />
+<br />
+<center/>
+</body>
+</html>
